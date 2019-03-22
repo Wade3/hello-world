@@ -14,6 +14,6 @@ I connect people to people and pitch in to find solutions in technological envir
   * project management
   * training and instructional design&mdash;I have experience across the spectrum of higher education IT. I really do.
 
-I bring an unfailingly positive attitude to the collaborative workplace.
+I bring an unfailingly positive attitude to the collaborative workplace. I really do.
 
  ![This marks the return of the system tray...plus!](tray-plus.png "System Tray")
